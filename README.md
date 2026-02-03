@@ -1,7 +1,5 @@
 # Intro to Assesfy Chatbot
 
-You may find use the chatbot _beta_ version - [Link](https://app-backend-zeamr6jigmwxq.azurewebsites.net/)
-
 These are advanced topics that are not necessary for a basic deployment.
 
 * [Deploying with the Azure Developer CLI](azd.md)
